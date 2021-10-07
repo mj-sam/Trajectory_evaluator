@@ -15,6 +15,8 @@ pip install -r requirements.txt
 python gui.py
 ```
 you should the window below
+![alt text](https://raw.githubusercontent.com/mj-sam/Trajectory_evaluator/main/screenshot.jpg)
+
 Also you can use ```Traj_test.txt``` as a test case
 
 Enjoy !
